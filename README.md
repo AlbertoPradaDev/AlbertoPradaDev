@@ -26,7 +26,7 @@ I'm a developer passionate about modern software, automation, clean interfaces, 
 ## Technologies & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,nodejs,express,nextjs,html,css,tailwind,git,github,docker,postgres,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,nodejs,express,nextjs,html,css,git,github,docker,postgres,mongodb" />
 </p>
 
 ---
