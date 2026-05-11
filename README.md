@@ -80,15 +80,15 @@ Coming soon...
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alberto-prada67/">
+  <a href="https://www.linkedin.com/in/alberto-prada67/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://www.albertopradadev.com/">
+  <a href="https://www.albertopradadev.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome" />
   </a>
 
-  <a href="mailto:albertojprada10@gmail.com">
+  <a href="mailto:albertojprada10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
