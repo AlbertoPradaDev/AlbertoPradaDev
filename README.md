@@ -16,10 +16,10 @@
 
 I'm a developer passionate about modern software, automation, clean interfaces, and well-structured systems.
 
-- I mainly work with web and backend technologies.
+- I mainly work with frontend and backend technologies.
 - I enjoy writing maintainable, clear, and efficient code.
-- I like learning new tools and applying them to real-world projects.
-- Currently improving my skills in software architecture, APIs, and full-stack development.
+- I like learning new tools and applying them to real world projects.
+- Currently improving my skills in UX/UI Design, APIs, and full stack development.
 
 ---
 
