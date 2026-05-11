@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlbertoPradaDev/AlbertoPradaDev/main/banner-github.png" />
+</p>
+
 <h1 align="center">Hi, I'm Alberto Prada 👋</h1>
 
 <p align="center">
