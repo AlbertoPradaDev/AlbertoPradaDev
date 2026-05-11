@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alberto Prada 👋</h1>
 
 <p align="center">
-  Desarrollador enfocado en construir soluciones limpias, escalables y útiles.
+  Developer focused on building clean, scalable, and useful solutions.
 </p>
 
 <p align="center">
@@ -12,43 +12,43 @@
 
 ---
 
-## Sobre mí
+## About Me
 
-Soy desarrollador con interés en software moderno, automatización, interfaces limpias y sistemas bien estructurados.
+I'm a developer passionate about modern software, automation, clean interfaces, and well-structured systems.
 
-- Trabajo principalmente con tecnologías web y backend.
-- Me interesa escribir código mantenible, claro y eficiente.
-- Me gusta aprender nuevas herramientas y aplicarlas en proyectos reales.
-- Actualmente mejorando mis habilidades en arquitectura, APIs y desarrollo full-stack.
+- I mainly work with web and backend technologies.
+- I enjoy writing maintainable, clear, and efficient code.
+- I like learning new tools and applying them to real-world projects.
+- Currently improving my skills in software architecture, APIs, and full-stack development.
 
 ---
 
-## Tecnologías y lenguajes
+## Technologies & Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,html,css,tailwind,git,github,docker,postgres,mongodb,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,nodejs,express,nextjs,html,css,tailwind,git,github,docker,postgres,mongodb,vscode" />
 </p>
 
 ---
-<!-- 
-## Estadísticas de GitHub
-/**
+<!--
+## GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlbertoPradaDev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlbertoPradaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoPradaDev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
--->
----
 
-## Racha de contribuciones
+---
+-->
+## Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertoPradaDev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AlbertoPradaDev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Trofeos y logros
+## Trophies & Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlbertoPradaDev&theme=tokyonight&no-frame=true&margin-w=10" />
@@ -56,43 +56,45 @@ Soy desarrollador con interés en software moderno, automatización, interfaces 
 
 ---
 
-## Actividad reciente
+## Recent Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbertoPradaDev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
+<!--
+## Featured Projects
 
-## Proyectos destacados
+### Project 1
+Coming soon...
 
-### Proyecto 1
-Pending...
+### Project 2
+Coming soon...
 
-### Proyecto 2
-Pending...
-
-### Proyecto 3
-Pending...
-
+### Project 3
+Coming soon...
+-->
 ---
 
-## Conecta conmigo
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alberto-prada67/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="https://www.albertopradadev.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Web-orange?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome" />
   </a>
+
   <a href="mailto:albertojprada10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  Código limpio. Ideas claras. Mejora constante.
+  Clean code. Clear ideas. Constant improvement.
 </p>
