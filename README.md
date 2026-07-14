@@ -52,12 +52,12 @@ I'm a developer passionate about modern software, automation, clean interfaces, 
 
 ---
 
-## Trophies & Achievements
+<!-- ## Trophies & Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlbertoPradaDev&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
+-->
 ---
 
 ## Recent Activity
