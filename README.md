@@ -67,18 +67,18 @@ I'm a developer passionate about modern software, automation, clean interfaces, 
 </p>
 
 ---
-<!--
+
 ## Featured Projects
 
-### Project 1
-Coming soon...
+### Project 1 | AirPods Pro 3 - 3D Website (Product Presentation)
+Repo: https://github.com/AlbertoPradaDev/airpods-landing
 
-### Project 2
-Coming soon...
+### Project 2 | Snack Bar - A Gatinha
+Repo: https://github.com/AlbertoPradaDev/a-gatinha
 
-### Project 3
-Coming soon...
--->
+### Project 3 | Barbershop + Booking API
+Repo: https://github.com/AlbertoPradaDev/barbershop
+
 ---
 
 ## Connect With Me
